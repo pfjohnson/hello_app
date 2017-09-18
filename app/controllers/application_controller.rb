@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render html: "adios, muchachos. ¡Vaya con dios!"
+    render html: "Keanu Reeves is the best actor"
   end
 
 end
